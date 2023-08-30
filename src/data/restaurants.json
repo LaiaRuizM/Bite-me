@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "El invernadero",
+    "type": "Mediterranean",
+    "category": "Romantic",
+    "averagePrice": "160€",
+    "image": "https://i.postimg.cc/wjdg2nYC/el-Invernadero.jpg",
+    "descriptionEn": "Rodrigo de la Calle defines himself as a vegetable domesticator and he is right, because what he does with our green environment has made him an unavoidable reference; in fact, he is one of the fathers of gastrobotany.",
+    "city": "Madrid",
+    "webUrl": "https://elinvernaderorestaurante.com/",
+    "visible": true
+  },
+  {
+    "id": 2,
+    "name": "Welkhomeclub",
+    "type": "Fusion",
+    "category": "Romantic",
+    "averagePrice": "23€",
+    "image": "https://i.postimg.cc/D0zjhr4Q/Welkhomeclub.jpg",
+    "descriptionEn": "Like home... but better. At last!",
+    "city": "Madrid",
+    "webUrl": "https://welkhomeclub.com/",
+    "visible": true
+  },
+  {
+    "id": 3,
+    "name": "Quimbaya by Edwin",
+    "type": "Colombian",
+    "category": "Michelin",
+    "averagePrice": "95€",
+    "image": "https://i.postimg.cc/k50RqqVT/Quimbaya.jpg",
+    "descriptionEn": "Do you want to travel with your palate? Here you have a wonderful opportunity to do so, since chef Edwin Rodríguez has been able to transfer the flavors of his native Colombia, the cradle of magical realism, to the plate.",
+    "city": "Madrid",
+    "webUrl": "https://quimbayarestaurant.com/",
+    "visible": true
+  },
+  {
+    "id": 4,
+    "name": "Fuku rolls & bowls",
+    "type": "Japanese",
+    "category": "Casual",
+    "averagePrice": "15€",
+    "image": "https://i.postimg.cc/vmc2CL9W/Fuku-rolls-bowls.jpg",
+    "descriptionEn": "You can give this Fuku rolls & bowls experience to someone special.",
+    "city": "Madrid",
+    "webUrl": "https://www.fukumadrid.es/",
+    "visible": true
+  },
+  {
+    "id": 5,
+    "name": "Sanpas Rodríguez",
+    "type": "Argentinian",
+    "category": "Summer nigths",
+    "averagePrice": "19€",
+    "image": "https://i.postimg.cc/SNZsmCjZ/Sanpas-Rodriguez.jpg",
+    "descriptionEn": "Our pizzas and empanadas are handcrafted with our Rodríguez recipe, which we have modified and adapted for our customers, who have had an extremely admirable acceptance.",
+    "city": "Madrid",
+    "webUrl": "https://rodriguez-bar.metro.rest/?lang=es",
+    "visible": true
+  },
+  {
+    "id": 6,
+    "name": "Wild duck",
+    "type": "Chinese",
+    "category": "Special",
+    "averagePrice": "28€",
+    "image": "https://i.postimg.cc/bYtWyhJ4/Wild-duck.jpg",
+    "descriptionEn": "Wu ya bu cheng xi means: No duck, no party",
+    "city": "Madrid",
+    "webUrl": "https://www.pato-salvaje.com/",
+    "visible": true
+  },
+  {
+    "id": 7,
+    "name": "The bubble shop",
+    "type": "Fusion",
+    "category": "Romantic",
+    "averagePrice": "30€",
+    "image": "https://i.postimg.cc/tgzFbDns/The-bubble-shop.jpg",
+    "descriptionEn": "Come visit us if you want to know how many bubbles are in a glass of champagne!",
+    "city": "Madrid",
+    "webUrl": "https://www.laburbujeria.com/",
+    "visible": true
+  },
+  {
+    "id": 8,
+    "name": "The Bite",
+    "type": "Mexican",
+    "category": "Summer night",
+    "averagePrice": "25€",
+    "image": "https://i.postimg.cc/k5Zszf0W/TheBite.jpg",
+    "descriptionEn": "After some tacos al pastor where Hemetrio Pérez, under the effluvia of a few mezcal, La Mordida is born. It was one of those happy moments of walking with my friend Joaquín Sabina, on a tour of our beloved Mexico.",
+    "city": "Madrid",
+    "webUrl": "https://www.lamordida.com/",
+    "visible": true
+  },
+  {
+    "id": 9,
+    "name": "Mitiko",
+    "type": "Japanese",
+    "category": "Romantic",
+    "averagePrice": "25€",
+    "image": "https://i.postimg.cc/rw2N1DSN/Mitiko.jpg",
+    "descriptionEn": "Where the fabulous stories continue. A surprising concept, inspired by Southeast Asia. A combination between tradition; innovation and know-how.",
+    "city": "Madrid",
+    "webUrl": "https://mitiko.es/",
+    "visible": true
+  }
+]
