@@ -1,6 +1,7 @@
 const Hero = () => {
   <section className="hero size-hero">
     <div className="hero--video size-hero video">
+      Hero
       <video
         className="hero--video"
         src="../imagesVideos/BiteMeVideo.mp4"
