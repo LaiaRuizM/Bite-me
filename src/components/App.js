@@ -1,6 +1,12 @@
 import "../styles/App.scss";
+import Landing from "./Landing";
+
 function App() {
-  return <div className="App"></div>;
+  return (
+    <div className="App">
+      <Landing />
+    </div>
+  );
 }
 
 export default App;
