@@ -1,0 +1,13 @@
+.hero {
+  position: relative;
+  &--video {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+}
+
+.size-hero {
+  height: 500px;
+  width: 100vw;
+}
