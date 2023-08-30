@@ -1,14 +1,5 @@
 .hero {
-  background-color: pink;
-  // position: relative;
-  // &--video {
-  //   position: absolute;
-  //   top: 0;
-  //   right: 0;
-  // }
+  &--video {
+    width: 100vw;
+  }
 }
-
-// .size-hero {
-//   height: 500px;
-//   width: 100vw;
-// }
